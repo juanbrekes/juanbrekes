@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @juanbrekes, a former business analyst an product owner
 - 👀 I’m interested in discovering new insights from data and solving problems using data
 - 🌱 I’m currently learning new machine learning models, and getting into deep learning and specially computer vision aplications
-- 💞️ I’m looking to collaborate on projects where I can apply my new knowledge
 - 📫 You can contact me by Linkedin at www.linkedin.com/in/juan-brekes-gregoris
 
 <!---
